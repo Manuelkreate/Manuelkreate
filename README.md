@@ -25,7 +25,7 @@ I more than just write queries; I hunt for the "why" behind the numbers. My jour
 ---
 
 ### 🌱 What’s Next?
-I'm currently sharpening my skills in advanced data modeling and looking for my next big challenge. When I'm not in a code editor, I’m likely gaming, listening to music, or enjoying scientific discoveries.
+I'm currently sharpening my skills in advanced data modeling and looking for my next big challenge. When I'm not in a code editor, I’m likely gaming, listening to music, or following new scientific discoveries.
 
 📫 **Let's Connect:** [LinkedIn](https://linkedin.com/in/emmanuel-adebowale) | [Email](mailto:emmyrex.a@gmail.com)
 
