@@ -20,7 +20,7 @@ I more than just write queries; I hunt for the "why" behind the numbers. My jour
 * **The Insight:** Gold (GC=F) had the best Sharpe Ratio across all windows, yet the volatility parity model recommended putting up to 40% of the portfolio in SPY. Two different questions — return efficiency vs. wealth preservation — answered simultaneously by the same pipeline.
 * **The Technicals:** Python + yfinance for ingestion, dbt for transformations, GitHub Actions for nightly automation, Power BI with DirectQuery for a live dashboard. 9/9 dbt data tests passing.
 
-#### [💳 Fintech CLV & Churn Prediction](https://github.com/Manuelkreate/Churn-Analysis-Project)
+#### [💳 Fintech CLV & Churn Prediction](https://github.com/Manuelkreate/Fintech_CLV_Churn_Analysis)
 **The Story:** Analyzing 198,576 customers to find the "Retention Drop-off" point. I discovered that retention steeply declines after the first transaction, but customers who hit **5 total transactions** become significantly more loyal.
 
 * **The Insight:** Consistent frequency (Total Transactions) is the most critical factor, contributing to 58% of the model's predictive power.
