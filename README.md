@@ -26,7 +26,7 @@ I more than just write queries; I hunt for the "why" behind the numbers. My jour
 * **The Insight:** Consistent frequency (Total Transactions) is the most critical factor, contributing to 58% of the model's predictive power.
 * **The Technicals:** Built a Random Forest Classifier with a **0.78 Recall** for churn, ensuring high-risk users are identified before they exit the ecosystem.
 
-#### [📈 Fund-ify Growth Strategy](https://github.com/Manuelkreate/Fund-ify-Dashboard)
+#### [📈 Fund-ify Growth Strategy](https://github.com/Manuelkreate/customer-retention-and-health-analytics)
 **The Story:** Developed a strategic dashboard to transition Fund-ify from volume tracking to sustainable growth. I mapped the service portfolio into a **Growth Quadrant** to identify "Habit Builders" for cross-selling and "Underperformers" for re-evaluation.
 
 * **The Insight:** Friction and growth are inversely related — reducing friction in high-impact services like Lending and Airtime is critical for value creation.
